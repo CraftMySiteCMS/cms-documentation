@@ -1,2 +1,2 @@
 # cms-documentation
-Wiki technique de CMS
+Wiki technique de CraftMySite
